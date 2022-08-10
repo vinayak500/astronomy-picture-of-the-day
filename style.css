@@ -1,0 +1,26 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body{
+
+    min-height: 100vh;
+}
+
+#image-container{
+    text-align: center;
+    margin:40px;
+}
+
+
+#heading{
+    text-align: center;
+    color:black;
+    font-size: 40px;
+}
+
+#explanation{
+    border: 1px solid black;
+    margin:2px;
+    font-size: 20px;
+}
